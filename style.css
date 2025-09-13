@@ -1464,7 +1464,7 @@ img {
 /* Floating WhatsApp Button */
 .floating-whatsapp {
     position: fixed !important;
-    bottom: 130px !important; /* Position above scroll-up button (60px height + 70px spacing) */
+    bottom: 100px !important; /* Position above scroll-up button (60px height + 30px spacing) */
     right: 60px !important;
     width: 70px !important;
     height: 70px !important;
